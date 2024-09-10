@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noteb\\source\\repos\\Ejercicio4ChatGPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55BF7137-5B47-4832-8B50-3B906F7951C6}|Ejercicio4ChatGPT.csproj|c:\\users\\noteb\\source\\repos\\ejercicio4chatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BF7137-5B47-4832-8B50-3B906F7951C6}|Ejercicio4ChatGPT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BF7137-5B47-4832-8B50-3B906F7951C6}|Ejercicio4ChatGPT.csproj|c:\\users\\noteb\\source\\repos\\ejercicio4chatgpt\\dominio\\nombres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BF7137-5B47-4832-8B50-3B906F7951C6}|Ejercicio4ChatGPT.csproj|solutionrelative:dominio\\nombres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BF7137-5B47-4832-8B50-3B906F7951C6}|Ejercicio4ChatGPT.csproj|c:\\users\\noteb\\source\\repos\\ejercicio4chatgpt\\dominio\\numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BF7137-5B47-4832-8B50-3B906F7951C6}|Ejercicio4ChatGPT.csproj|solutionrelative:dominio\\numeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Numeros.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Ejercicio4ChatGPT\\Dominio\\Numeros.cs",
+              "RelativeDocumentMoniker": "Dominio\\Numeros.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Ejercicio4ChatGPT\\Dominio\\Numeros.cs",
+              "RelativeToolTip": "Dominio\\Numeros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:14:25.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nombres.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Ejercicio4ChatGPT\\Dominio\\Nombres.cs",
+              "RelativeDocumentMoniker": "Dominio\\Nombres.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Ejercicio4ChatGPT\\Dominio\\Nombres.cs",
+              "RelativeToolTip": "Dominio\\Nombres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:35:11.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\Ejercicio4ChatGPT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\Ejercicio4ChatGPT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:25.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

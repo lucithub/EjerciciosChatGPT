@@ -1,0 +1,14 @@
+C:\Users\noteb\source\repos\EjerciciosChatGPT\bin\Debug\net8.0\EjerciciosChatGPT.exe
+C:\Users\noteb\source\repos\EjerciciosChatGPT\bin\Debug\net8.0\EjerciciosChatGPT.deps.json
+C:\Users\noteb\source\repos\EjerciciosChatGPT\bin\Debug\net8.0\EjerciciosChatGPT.runtimeconfig.json
+C:\Users\noteb\source\repos\EjerciciosChatGPT\bin\Debug\net8.0\EjerciciosChatGPT.dll
+C:\Users\noteb\source\repos\EjerciciosChatGPT\bin\Debug\net8.0\EjerciciosChatGPT.pdb
+C:\Users\noteb\source\repos\EjerciciosChatGPT\obj\Debug\net8.0\EjerciciosChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noteb\source\repos\EjerciciosChatGPT\obj\Debug\net8.0\EjerciciosChatGPT.AssemblyInfoInputs.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPT\obj\Debug\net8.0\EjerciciosChatGPT.AssemblyInfo.cs
+C:\Users\noteb\source\repos\EjerciciosChatGPT\obj\Debug\net8.0\EjerciciosChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPT\obj\Debug\net8.0\EjerciciosChatGPT.dll
+C:\Users\noteb\source\repos\EjerciciosChatGPT\obj\Debug\net8.0\refint\EjerciciosChatGPT.dll
+C:\Users\noteb\source\repos\EjerciciosChatGPT\obj\Debug\net8.0\EjerciciosChatGPT.pdb
+C:\Users\noteb\source\repos\EjerciciosChatGPT\obj\Debug\net8.0\EjerciciosChatGPT.genruntimeconfig.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPT\obj\Debug\net8.0\ref\EjerciciosChatGPT.dll

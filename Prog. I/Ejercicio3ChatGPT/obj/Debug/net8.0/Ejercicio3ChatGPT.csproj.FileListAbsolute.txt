@@ -1,0 +1,14 @@
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\bin\Debug\net8.0\Ejercicio3ChatGPT.exe
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\bin\Debug\net8.0\Ejercicio3ChatGPT.deps.json
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\bin\Debug\net8.0\Ejercicio3ChatGPT.runtimeconfig.json
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\bin\Debug\net8.0\Ejercicio3ChatGPT.dll
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\bin\Debug\net8.0\Ejercicio3ChatGPT.pdb
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\obj\Debug\net8.0\Ejercicio3ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\obj\Debug\net8.0\Ejercicio3ChatGPT.AssemblyInfoInputs.cache
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\obj\Debug\net8.0\Ejercicio3ChatGPT.AssemblyInfo.cs
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\obj\Debug\net8.0\Ejercicio3ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\obj\Debug\net8.0\Ejercicio3ChatGPT.dll
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\obj\Debug\net8.0\refint\Ejercicio3ChatGPT.dll
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\obj\Debug\net8.0\Ejercicio3ChatGPT.pdb
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\obj\Debug\net8.0\Ejercicio3ChatGPT.genruntimeconfig.cache
+C:\Users\noteb\source\repos\Ejercicio3ChatGPT\obj\Debug\net8.0\ref\Ejercicio3ChatGPT.dll

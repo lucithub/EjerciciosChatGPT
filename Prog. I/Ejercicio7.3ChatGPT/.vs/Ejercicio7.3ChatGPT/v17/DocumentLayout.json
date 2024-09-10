@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70BFEB17-7829-4539-9FA9-119D4CC81158}|Ejercicio7.3ChatGPT.csproj|c:\\users\\noteb\\source\\repos\\ejercicioschatgpt\\ejercicio7.3chatgpt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BFEB17-7829-4539-9FA9-119D4CC81158}|Ejercicio7.3ChatGPT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BFEB17-7829-4539-9FA9-119D4CC81158}|Ejercicio7.3ChatGPT.csproj|c:\\users\\noteb\\source\\repos\\ejercicioschatgpt\\ejercicio7.3chatgpt\\dominio\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BFEB17-7829-4539-9FA9-119D4CC81158}|Ejercicio7.3ChatGPT.csproj|solutionrelative:dominio\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BFEB17-7829-4539-9FA9-119D4CC81158}|Ejercicio7.3ChatGPT.csproj|c:\\users\\noteb\\source\\repos\\ejercicioschatgpt\\ejercicio7.3chatgpt\\dominio\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BFEB17-7829-4539-9FA9-119D4CC81158}|Ejercicio7.3ChatGPT.csproj|solutionrelative:dominio\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BFEB17-7829-4539-9FA9-119D4CC81158}|Ejercicio7.3ChatGPT.csproj|C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70BFEB17-7829-4539-9FA9-119D4CC81158}|Ejercicio7.3ChatGPT.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departamentos.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\Dominio\\Departamentos.cs",
+              "RelativeDocumentMoniker": "Dominio\\Departamentos.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\Dominio\\Departamentos.cs",
+              "RelativeToolTip": "Dominio\\Departamentos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:44:45.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:38:53.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\Dominio\\Empleado.cs",
+              "RelativeDocumentMoniker": "Dominio\\Empleado.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\Dominio\\Empleado.cs",
+              "RelativeToolTip": "Dominio\\Empleado.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDUAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:08:45.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio7.3ChatGPT\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:04:22.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

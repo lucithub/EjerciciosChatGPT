@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio1.2ChatGPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB9C2B4-0A58-41C1-AD79-2CD9065C0500}|Ejercicio1.2ChatGPT.csproj|C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio1.2ChatGPT\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB9C2B4-0A58-41C1-AD79-2CD9065C0500}|Ejercicio1.2ChatGPT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB9C2B4-0A58-41C1-AD79-2CD9065C0500}|Ejercicio1.2ChatGPT.csproj|c:\\users\\noteb\\source\\repos\\ejercicioschatgpt\\ejercicio1.2chatgpt\\dominio\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB9C2B4-0A58-41C1-AD79-2CD9065C0500}|Ejercicio1.2ChatGPT.csproj|solutionrelative:dominio\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio1.2ChatGPT\\Dominio\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Dominio\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio1.2ChatGPT\\Dominio\\Estudiante.cs",
+              "RelativeToolTip": "Dominio\\Estudiante.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIAzwB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:41:17.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio1.2ChatGPT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio1.2ChatGPT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:39:37.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

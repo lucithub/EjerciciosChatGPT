@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|c:\\users\\noteb\\source\\repos\\ejercicioschatgpt\\ejercicio5.2chatgpt\\dominio\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|solutionrelative:dominio\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|c:\\users\\noteb\\source\\repos\\ejercicioschatgpt\\ejercicio5.2chatgpt\\dominio\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|solutionrelative:dominio\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\dominio\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|solutionrelative:dominio\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\dominio\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76532EB-8126-43DD-AEA5-A4E35079F857}|Ejercicio5.2ChatGPT.csproj|solutionrelative:dominio\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Dominio\\Circulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Circulo.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Dominio\\Circulo.cs",
+              "RelativeToolTip": "Dominio\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:28:22.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FiguraGeometrica.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Dominio\\FiguraGeometrica.cs",
+              "RelativeDocumentMoniker": "Dominio\\FiguraGeometrica.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Dominio\\FiguraGeometrica.cs",
+              "RelativeToolTip": "Dominio\\FiguraGeometrica.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:10:54.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Dominio\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Dominio\\Triangulo.cs",
+              "RelativeToolTip": "Dominio\\Triangulo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:07:25.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:06:02.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Dominio\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\noteb\\source\\repos\\EjerciciosChatGPT\\Ejercicio5.2ChatGPT\\Dominio\\Rectangulo.cs",
+              "RelativeToolTip": "Dominio\\Rectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:18:27.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

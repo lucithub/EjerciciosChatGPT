@@ -1,0 +1,16 @@
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\bin\Debug\net8.0-windows\Ejercicio7.3ChatGPT.exe
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\bin\Debug\net8.0-windows\Ejercicio7.3ChatGPT.deps.json
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\bin\Debug\net8.0-windows\Ejercicio7.3ChatGPT.runtimeconfig.json
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\bin\Debug\net8.0-windows\Ejercicio7.3ChatGPT.dll
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\bin\Debug\net8.0-windows\Ejercicio7.3ChatGPT.pdb
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\Ejercicio7._3ChatGPT.Form1.resources
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\Ejercicio7.3ChatGPT.csproj.GenerateResource.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\Ejercicio7.3ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\Ejercicio7.3ChatGPT.AssemblyInfoInputs.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\Ejercicio7.3ChatGPT.AssemblyInfo.cs
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\Ejercicio7.3ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\Ejercicio7.3ChatGPT.dll
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\refint\Ejercicio7.3ChatGPT.dll
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\Ejercicio7.3ChatGPT.pdb
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\Ejercicio7.3ChatGPT.genruntimeconfig.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPT\Ejercicio7.3ChatGPT\obj\Debug\net8.0-windows\ref\Ejercicio7.3ChatGPT.dll

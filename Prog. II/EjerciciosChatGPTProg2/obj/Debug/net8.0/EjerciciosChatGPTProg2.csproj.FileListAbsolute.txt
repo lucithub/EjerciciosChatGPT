@@ -1,0 +1,14 @@
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\bin\Debug\net8.0\EjerciciosChatGPTProg2.exe
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\bin\Debug\net8.0\EjerciciosChatGPTProg2.deps.json
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\bin\Debug\net8.0\EjerciciosChatGPTProg2.runtimeconfig.json
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\bin\Debug\net8.0\EjerciciosChatGPTProg2.dll
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\bin\Debug\net8.0\EjerciciosChatGPTProg2.pdb
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\obj\Debug\net8.0\EjerciciosChatGPTProg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\obj\Debug\net8.0\EjerciciosChatGPTProg2.AssemblyInfoInputs.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\obj\Debug\net8.0\EjerciciosChatGPTProg2.AssemblyInfo.cs
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\obj\Debug\net8.0\EjerciciosChatGPTProg2.csproj.CoreCompileInputs.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\obj\Debug\net8.0\EjerciciosChatGPTProg2.dll
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\obj\Debug\net8.0\refint\EjerciciosChatGPTProg2.dll
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\obj\Debug\net8.0\EjerciciosChatGPTProg2.pdb
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\obj\Debug\net8.0\EjerciciosChatGPTProg2.genruntimeconfig.cache
+C:\Users\noteb\source\repos\EjerciciosChatGPTProg2\obj\Debug\net8.0\ref\EjerciciosChatGPTProg2.dll
